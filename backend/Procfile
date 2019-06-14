@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT the_goat_writer_4673.wsgi:application
